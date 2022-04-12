@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReplicAndroid", "ReplicAndroid.vcxproj", "{B6234DDE-F0CE-4848-88FB-1E4BA1999424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6234DDE-F0CE-4848-88FB-1E4BA1999424}.Debug|x64.ActiveCfg = Debug|x64
+		{B6234DDE-F0CE-4848-88FB-1E4BA1999424}.Debug|x64.Build.0 = Debug|x64
+		{B6234DDE-F0CE-4848-88FB-1E4BA1999424}.Release|x64.ActiveCfg = Release|x64
+		{B6234DDE-F0CE-4848-88FB-1E4BA1999424}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8BE37A-F2B2-410F-BD4B-6A7018C1A0B7}
+	EndGlobalSection
+EndGlobal
